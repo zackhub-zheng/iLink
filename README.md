@@ -2,7 +2,7 @@
 
 ## Break Boundaries, Seamlessly Control Your iOS Devices
 
-![iLink Logo](https://placeholder.com/ilink-logo) <!-- Placeholder for actual logo URL -->
+![iLink Logo](/icon-512.png) <!-- Placeholder for actual logo URL -->
 
 ### Cross-Platform Remote Access: Redefining iOS Management
 
