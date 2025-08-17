@@ -15,7 +15,7 @@ iLink enables you to effortlessly connect, manage, and control your iOS devices 
 ### Comprehensive Remote Control
 
 - **Precision Remote Text Input**: Type directly on iOS devices using your computer keyboard – no more tedious phone typing
-- **Intuitive Gesture Control**: Simulate touch, swipe, zoom, and other gestures as naturally as operating the phone itself
+- **Intuitive Gesture Control**: Simulate touch, swipe, and other gestures as naturally as operating the phone itself
 - **HD Screen Mirroring**: Real-time screen syncing with high-definition quality and millisecond-level latency
 - **Clipboard Synchronization**: Seamlessly sync computer clipboard content to your phone
 
