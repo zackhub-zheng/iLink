@@ -10,7 +10,7 @@ iLink enables you to effortlessly connect, manage, and control your iOS devices 
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
 ### Comprehensive Remote Control
 
@@ -31,7 +31,7 @@ iLink enables you to effortlessly connect, manage, and control your iOS devices 
 
 ---
 
-## 🔒 Security & Compliance, Privacy First
+## Security & Compliance, Privacy First
 
 ### Native iOS Protocols, Worry-Free Security
 
@@ -42,7 +42,7 @@ iLink enables you to effortlessly connect, manage, and control your iOS devices 
 
 ---
 
-## 💼 Use Cases
+## Use Cases
 
 ### Personal Efficiency & Entertainment Assistant
 
@@ -76,7 +76,7 @@ iLink enables you to effortlessly connect, manage, and control your iOS devices 
 
 ---
 
-## ✨ Why Choose iLink?
+## Why Choose iLink?
 
 - **Cross-Platform Compatibility**: Full support for Windows, macOS, and Linux
 - **Ultra-Low Latency**: Optimized protocols ensure fluid operations with near-zero lag
@@ -86,7 +86,7 @@ iLink enables you to effortlessly connect, manage, and control your iOS devices 
 
 ---
 
-## 📋 System Requirements
+## System Requirements
 
 ### Client Systems
 - **Windows**: Windows 10+ (64-bit)
@@ -110,7 +110,7 @@ iLink enables you to effortlessly connect, manage, and control your iOS devices 
 
 ---
 
-## 🤝 Contact Us
+## Contact Us
 
 ### Questions? We're Here to Help
 
@@ -122,7 +122,7 @@ iLink enables you to effortlessly connect, manage, and control your iOS devices 
 
 ---
 <!-- 
-## 💬 Testimonials
+## Testimonials
 
 > "iLink revolutionized my workflow – handling all phone notifications via computer boosted my productivity by 30%!" — Zhang Ming, Product Manager
 
