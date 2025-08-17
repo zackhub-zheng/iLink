@@ -118,7 +118,7 @@ iLink enables you to effortlessly connect, manage, and control your iOS devices 
 - **Email**: zackgameday@gmail.com
 <!-- - **Support Hotline**: 400-123-4567 -->
 <!-- - **WeChat**: iLink Official Service Account -->
-- **GitHub**: [github.com/ilink](https://github.com/ilink)
+- **GitHub**: [[github.com/ilink](https://github.com/ilink)](https://github.com/zackhub-zheng/iLink)
 
 ---
 <!-- 
